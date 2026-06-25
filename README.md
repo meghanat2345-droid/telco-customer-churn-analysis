@@ -89,5 +89,3 @@ which customers are likely to leave in the future.
 ## Author
 Meghana T
 Aspiring Data Analyst
-[LinkedIn Profile Link]
-[GitHub Profile Link]
